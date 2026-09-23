@@ -21,7 +21,7 @@ int main(void) {
 
     int n;
 
-    printf("Quantos elementos do tipo float você quer armazenar? ");
+    printf("Quantos elementos do tipo float voce quer armazenar? ");
     scanf("%d", &n); // lê o valor de n
 
     float *r;
